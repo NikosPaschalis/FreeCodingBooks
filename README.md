@@ -1,8 +1,9 @@
 # FreeCodingBooks
 A personal project about requesting and find coding books.
 
-## Technologies Used
+## Technologies
 - PHP
 - Mysqli
 - HTML
 - CSS & Bootstrap
+- JQuery
