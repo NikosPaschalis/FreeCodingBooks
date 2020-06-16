@@ -49,7 +49,7 @@ class GoogleUrlApi {
 }
 /*
 // Create instance with key
-$key = 'AIzaSyCneqUElXTbEnApyLZOQnpdj5aaK_74Ncc';
+$key = '';
 $googer = new GoogleURLAPI($key);
 
 // Test: Shorten a URL
